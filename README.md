@@ -141,7 +141,7 @@ Langkah-Langkah
     <br>RUANGAPI_KEY=TOKEN_RUANG_API_KAMU
 16. Jalankan perintah <b>php artisan migrate</b>. Cek di phpmyadmin, seharusnya tabel sudah muncul.
 17. Jalankan perintah <b>php artisan db:seed</b> untuk mengisi tabel users, provinces, cities, districts. Berikut email dan password untuk login admin pada http://localhost:8000/login
-    <br>EMAIL = rifki@admin.com
+    <br>EMAIL = sample@admin.com
     <br>PASSWORD = admin
 18. Jalankan perintah <b>php artisan storage:link</b>    
 19. Setelah selesai, Jalankan perintah <b>php artisan serve</b> maka dapat diakses dengan http://localhost:8000/
